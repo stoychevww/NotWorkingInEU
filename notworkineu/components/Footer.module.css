@@ -1,0 +1,52 @@
+.footer {
+  background-color: #141519; /* Dark background similar to the screenshot */
+  color: #ccc; /* Light gray text */
+  padding: 40px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.notAvailable {
+  color: #3f51b5; /* Blue color similar to the EU symbol */
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.heading {
+  font-size: 24px;
+  font-weight: 600;
+  margin: 20px 0;
+}
+
+.text {
+  font-size: 16px;
+  line-height: 1.6;
+  margin: 0 auto;
+  max-width: 700px; /* Keep the text width reasonable */
+}
+
+.links {
+  margin-top: 20px;
+  font-size: 14px;
+}
+
+.links a {
+  color: #007bff; /* Blue link color */
+  text-decoration: none;
+}
+
+.links span {
+  margin: 0 10px; /* Space between links */
+  color: #ccc;
+}
+
+.legal {
+  margin-top: 30px;
+  font-size: 14px;
+}
+
+.legal a {
+  color: #007bff;
+  text-decoration: none;
+}

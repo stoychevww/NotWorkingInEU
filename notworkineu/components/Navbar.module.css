@@ -1,0 +1,29 @@
+.navbar {
+  background-color: #1f1f1f; /* Dark navbar background */
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #ccc;
+}
+
+.navbar a {
+  color: #007bff; /* Blue link color */
+  text-decoration: none;
+  margin: 0 15px;
+  font-size: 16px;
+}
+
+.navbar a:hover {
+  text-decoration: underline;
+}
+
+.logo {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.menu {
+  display: flex;
+  align-items: center;
+}
